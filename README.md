@@ -1,4 +1,4 @@
-# Professional-README-Generator
+# Professional README Generator
 
 ![License Badge](https://img.shields.io/badge/license-MIT-blue)
 
